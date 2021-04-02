@@ -1,17 +1,17 @@
 .calculadora {
     margin: 250px;
-    border: solid 1px #000;
+    border: solid 1px #bb1919;
     padding: 20px;
-    background-color: #2E2E2E;
+    background-color: #b94141;
     border-radius: 8px;
-    box-shadow: 1px 1px 5px #000;
+    box-shadow: 1px 1px 5px #752c2c;
   }
 
   .btn {
     width: 60px;
     height: 50px;
     margin: 5px;
-    box-shadow: 1px 1px 1px #000;
+    box-shadow: 1px 1px 1px #b11919;
   }
 
   .clear {
@@ -31,6 +31,6 @@
     font-size: 20px;
     margin-top: 10px;
     margin-bottom: 20px;
-    border: solid 1px #000;
-    box-shadow: 1px 1px 1px #000;
+    border: solid 1px #ffffff;
+    box-shadow: 1px 1px 1px #a31f1f;
   }
